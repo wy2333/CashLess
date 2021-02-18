@@ -1,0 +1,8 @@
+<resources>
+<dimen name="fab_margin">16dp</dimen>
+
+<dimen name="menu_height_method">100dp</dimen>
+<dimen name="menu_margin_bottom_design">20dp</dimen>
+<dimen name="text_size_medium">15dp</dimen>
+
+</resources>
